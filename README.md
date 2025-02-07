@@ -1,5 +1,6 @@
 - FE : https://github.com/PDcuong22/Robot-Arm-Control-FE.git
 - esp8266: https://github.com/PDcuong22/Robot-Arm-ESP8266.git
+- Demo: https://youtu.be/95rRNQfaZhA?si=aMf_RXfRGmVHpo_B
 
 - Tổng quan toàn hệ thống:
 
